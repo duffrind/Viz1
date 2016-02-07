@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"Viz 1\"\nauthor: \"David Duffrin\"\ndate: \"February 5, 2016\"\noutput: pdf_document\n---\n\nStrengths\n\n1. Programming background\n2. Acquainted with creating graphics for numerical data and drawing conclusions (NLP Tutorial)\n\nWeaknesses\n\n1. Inadequate background in creating multivariate visualizations\n2. Non-fluent technical knowledge of R\n\nHope to Learn\n\n1. How to create interesting visualizations related to NLP\n2. I hope to become fluent enough to make understandable visualizations quickly\n3. Explain data without to peers without alienating them\n3. How to make multivariable visualizations that are not confusing\n4. How to make interactive computer graphics\n\nVisualizations examples that I like\n\n1. [Syrian Diplomacy](http://www.slate.com/blogs/the_slatest/2015/10/06/syrian_conflict_relationships_explained.html)\n  + I like that the graphic is interactive and provides more information when clicked on\n2. [Thanksgiving Flights](http://googletrends.github.io/iframe-scaffolder/#/view?urls=Thanksgiving%202015%7Chttps:%252F%252Fgoogledataorg.cartodb.com%252Fu%252Fgoogledata%252Fviz%252Fbf595f4c-7381-11e5-9ec5-42010a14800c%252Fembed_map&active=0&sharing=1&autoplay=0&loop=1&layout=narrative&theme=red&title=A%20day%20in%20the%20life:%20US%20Thanksgiving%20on%20Google%20Flights&description=The%20day%20before%20Thanksgiving%202015%20shown%20in%20US%20domestic%20and%20international%20air%20travel%20booked%20with%20Google%20Flights)\n  + This graphic displays a lot of data in a non-overwhelming way\n3. [Population by Age](http://www.pewresearch.org/files/2014/04/847889448.gif)\n  + I like how the graphic shows only one time period at a time, so it isn't cluttered\n\nTools\n\n1. Along with the rest of the students, I have used [ggplot2](http://ggplot2.org/), [shiny](http://shiny.rstudio.com/), and [matplotlib](http://matplotlib.org/) before\n3. I have a friend that works for [Tableau](http://www.tableau.com/) and am very interested in the software\n4. [Bokeh](http://bokeh.pydata.org/en/latest/) seems interesting to make interactive plots (Python)\n5. I have used [NLP Toolkit](http://www.nltk.org/) before to collect and display NLP data (Python)",
+    "created" : 1454693829804.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2208497472",
+    "id" : "629A34F6",
+    "lastKnownWriteTime" : 1454869134,
+    "path" : "~/Desktop/Rprojects/Viz/Viz1.Rmd",
+    "project_path" : "Viz1.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
